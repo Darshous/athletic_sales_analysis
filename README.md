@@ -48,4 +48,5 @@ Future work could involve:
 - **Further Exploration**: Expanding the analysis to explore sales trends across different regions or product categories in more detail.
 - **Data Visualization**: Developing visual representations of the findings to enhance the communication of key insights.
 - **Predictive Analytics**: Leveraging the insights gained to build predictive models for forecasting future sales trends.
-***Prepaired by ChatGPT 4.o
+
+*** Prepaired by ChatGPT 4.o
